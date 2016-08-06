@@ -1,0 +1,40 @@
+_repo: Lady-into-Fox_10337
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Garnett, R. A. (Rachel Alice)
+    alias: Marshall, Rachel Alice
+    gutenberg_agent_id: '40621'
+    url: http://www.gutenberg.org/2009/agents/40621
+creator:
+  author:
+    agent_name: Garnett, David
+    alias: Burke, Leda
+    birthdate: 1892
+    deathdate: 1981
+    gutenberg_agent_id: '3473'
+    url: http://www.gutenberg.org/2009/agents/3473
+    wikipedia: http://en.wikipedia.org/wiki/David_Garnett
+description: "Lady into Fox was David Garnett's first novel under his own name, published\
+  \ in 1922. This short and enigmatic work won the James Tait Black Memorial Prize,\
+  \ and the Hawthornden Prize a year later.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10337'
+  wikidata: Q6470665
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Foxes -- Fiction'
+- !lcsh 'Metamorphosis -- Fiction'
+- !lcsh 'Fantasy fiction, English'
+- !lcc 'PR'
+- GITenberg
+title: Lady into Fox
+url: http://www.gutenberg.org/ebooks/10337
+wikipedia:
+- https://en.wikipedia.org/wiki/Lady_into_Fox
+- https://ja.wikipedia.org/wiki/%E7%8B%90%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E5%A5%A5%E6%A7%98
