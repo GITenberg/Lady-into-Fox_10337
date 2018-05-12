@@ -1,11 +1,14 @@
 _repo: Lady-into-Fox_10337
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Garnett, R. A. (Rachel Alice)
     alias: Marshall, Rachel Alice
     gutenberg_agent_id: '40621'
     url: http://www.gutenberg.org/2009/agents/40621
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Garnett, David
@@ -18,6 +21,8 @@ creator:
 description: "Lady into Fox was David Garnett's first novel under his own name, published\
   \ in 1922. This short and enigmatic work won the James Tait Black Memorial Prize,\
   \ and the Hawthornden Prize a year later.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10337#Lady-into-Fox
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
